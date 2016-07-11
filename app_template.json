@@ -7,7 +7,7 @@
         "annotations": {
             "name": "hexboard",
             "description": "Hexboard Demo",
-            "provider": "Red Hat Summit 2015 - JBoss Keynote demo team",
+            "provider": "Red Hat OSE Demo - July 2016",
             "iconClass": "icon-nodejs",
             "tags": "instant-app,nodejs"
         }
